@@ -1,2 +1,2 @@
 def handler(event, context):
-    print('Yet new data has been added.')
+    print('First test on lambda function')
